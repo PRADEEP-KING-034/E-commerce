@@ -22,8 +22,7 @@
     <cd "location of the repo">
     <flutter pub get>
 
-3. Run: 
-    <flutter run>
+3. Run:<flutter run>
 
 # Screenshots & Output Video
 1. ![Product List Screen](/output/1.jpeg)
