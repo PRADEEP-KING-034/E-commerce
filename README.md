@@ -25,10 +25,11 @@
 3. Run: 
     <flutter run>
 
-# Screenshots
+# Screenshots & Output Video
 1. ![Product List Screen](/output/1.jpeg)
 2. ![Product Detail Page](/output//2.jpeg)
 3. ![Cart Page](/output//3.jpeg)
+4. ![Cart Page](/output//3.jpeg)
 
 ## Architecture notes
 - `repository/product_repository.dart` — all API calls
